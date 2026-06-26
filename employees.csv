@@ -1,0 +1,13 @@
+name,department,salary,performance,attendance,years_employed
+Juan,Engineering,45000,88,92,5
+Maria,HR,32000,,85,3
+Carlo,Engineering,55000,72,70,8
+Ana,,38000,91,95,2
+Ben,Marketing,28000,55,60,1
+Diana,Engineering,,89,88,6
+Earl,HR,35000,76,,4
+Rosa,Marketing,31000,63,75,3
+Miguel,,48000,92,80,7
+Lisa,Engineering,52000,,55,9
+Pedro,HR,,78,90,2
+Sofia,Marketing,29000,45,65,1

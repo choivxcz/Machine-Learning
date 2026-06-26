@@ -1,0 +1,11 @@
+name,age,barangay,monthly_income,employed,years_residing
+Pedro,35,Poblacion,15000,True,10
+Maria,28,Bagumbayan,8000,False,5
+Jose,42,Poblacion,25000,True,15
+Ana,19,Sindalan,5000,False,2
+Carlos,55,Bagumbayan,35000,True,20
+Rosa,31,Poblacion,12000,True,8
+Miguel,24,Sindalan,7000,False,3
+Linda,47,Bagumbayan,28000,True,12
+Ben,22,Poblacion,6000,False,1
+Gloria,38,Sindalan,18000,True,9

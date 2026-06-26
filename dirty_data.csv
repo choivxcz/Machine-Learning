@@ -1,0 +1,13 @@
+name,age,region,grade,attendance,remarks
+Juan,18,Laguna,88,90,Good
+Maria,,Batangas,92,85,
+Carlo,18,,60,,Poor
+Ana,20,Cavite,,95,Good
+Ben,19,Laguna,55,60,
+Diana,,Batangas,91,88,Excellent
+Earl,20,Cavite,78,,Good
+Rosa,19,Laguna,,,Poor
+Miguel,,Batangas,83,80,
+Lisa,20,Cavite,49,55,Poor
+,,Laguna,70,75,
+Carlo,18,Cavite,,,

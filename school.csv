@@ -1,0 +1,11 @@
+name,age,subject,grade,region,attendance,tuition_paid
+Juan,18,Math,88,Laguna,90,True
+Maria,19,Science,92,Batangas,85,True
+Carlo,18,Math,60,Laguna,70,False
+Ana,20,English,75,Cavite,95,True
+Ben,19,Science,55,Laguna,60,False
+Diana,18,Math,91,Batangas,88,True
+Earl,20,English,78,Cavite,92,True
+Rosa,19,Science,65,Laguna,75,False
+Miguel,18,Math,83,Batangas,80,True
+Lisa,20,English,49,Cavite,55,False
