@@ -1,0 +1,5 @@
+print("My name is Karl Sebastian V. Cuerdo")
+print("My course is Computer Science")
+print("My section is 2B")
+print("My favorite AI technology is chatbots because they can provide instant support and assistance to users, making interactions more efficient and personalized.")
+print("My future AI projects would be I think the project I made when I was second year, where it is a Risk Predictor using Machine Learning, where it can predict the risk of a person based on their health data and personal data such as their age, location and type of their house. This project can help individuals make informed decisions about the risks of every residents of a barangay that helps barangay officials who to monitor and who to help or evacuate first based on the residents' risk")

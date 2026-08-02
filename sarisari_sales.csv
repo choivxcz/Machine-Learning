@@ -1,0 +1,11 @@
+item_name,price,quantity_sold,customer_age,payment_method
+Softdrinks,15,20,25,Cash
+Instant Noodles,12,,34,Cash
+Canned Goods,,15,45,GCash
+Chips,10,30,,Cash
+Softdrinks,15,,29,GCash
+Biscuits,,25,52,Cash
+Instant Noodles,12,18,,GCash
+Chips,10,22,31,
+Canned Goods,25,,40,Cash
+Biscuits,8,20,,GCash
